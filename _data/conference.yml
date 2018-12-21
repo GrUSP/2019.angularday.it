@@ -1,0 +1,24 @@
+name: Angular Day
+og_image: https://2019.angularday.it/img/themes/angularday/intro.png
+slug: angularday
+url: https://2019.angularday.it
+where_when: "Verona <br>13 giugno: corso <br>14 giugno: conferenza"
+year: 2019
+since: 2017
+call_for_paper_url: https://goo.gl/forms/ITYOM3Qusod1nSA42
+call_for_paper: true
+call_for_sponsor: true
+talks_available: false
+schedule_available: false
+workshop_available: false
+
+iubenda:
+  cookiePolicyId: 37246326
+  siteId: 1100245
+  lang: it
+  enableRemoteConsent: true
+  localConsentDomain: angularday.it
+  rebuildIframe: true
+
+google:
+  tag_manager_id: GTM-KKVG635

@@ -1,0 +1,52 @@
+# place images in:
+# img/conf-name/speaker/file.jpg
+list:
+  -
+    id: emanuele-bartolesi
+    description:
+    image: emanuele-bartolesi.png
+    first_name: Emanuele
+    last_name: Bartolesi
+    twitter: kasuken
+  -
+    id: fabio-biondi
+    description:
+    image: fabio-biondi.jpg
+    first_name: Fabio
+    last_name: Biondi
+    twitter: biondifabio
+  -
+    id: francesco-sciuti
+    description:
+    image: francesco-sciuti.jpg
+    first_name: Francesco
+    last_name: Sciuti
+    twitter: FrancescoSciuti
+  -
+    id: jiayi-hu
+    description:
+    image: jiayi-hu.jpg
+    first_name: Jiayi
+    last_name: Hu
+    twitter: jiayi_ghu
+  -
+    id: michel-murabito
+    description:
+    image: michel-murabito.jpg
+    first_name: Michel
+    last_name: Murabito
+    twitter: michelmurabito
+  -
+    id: michele-stieven
+    description:
+    image: michele-stieven.jpg
+    first_name: Michele
+    last_name: Stieven
+    twitter: MicheleStieven
+  -
+    id: paolo-galfione
+    description:
+    image: paolo-galfione.jpg
+    first_name: Paolo
+    last_name: Galfione
+    twitter: paologalfione

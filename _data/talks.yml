@@ -1,0 +1,66 @@
+-
+  speaker_id: fabio-biondi
+  image: fabio-biondi.jpg
+  keynote: true
+  title: "Il favoloso mondo di Angular (6)"
+  extract: >
+    Vediamo insieme l'evoluzione di Angular e le moltissime novità introdotte nelle ultime release
+-
+  speaker_id:
+    - paolo-galfione
+  image: paolo-galfione.jpg
+  title: "Gestire applicazioni di classe Enterprise con Angular 6 e Schematics"
+  extract: >
+    Angular 6 introduce il concetto di workspace per la creazione di applicazioni Angular aziendali complesse e articolate.
+    Grazie ad un approccio basato sul pattern mono-repo un workspace può contenere più applicazioni e librerie condivisibili
+    tra le applicazioni stesse. Vedremo come progettare un workspace e sfruttare la potenza dei nuovi @angular-devkit/schematics
+    per automatizzare la generazione di codice applicativo pronto all’uso
+-
+  speaker_id:
+    - francesco-sciuti
+  image: francesco-sciuti.jpg
+  title: "Change Detection, Zone.js ed altri mostri"
+  extract: >
+    Tra gli aspetti più arcani di Angular sono presenti alcuni mostri, che una volta conosciuti non fanno poi così tanta
+    paura. Approfondiamo quindi alcuni aspetti della Change Detection di Angular,  proviamo a capire a cosa serve e come
+    funziona Zone.js e se sono presenti in giro altre creature o miti da sfatare!
+-
+  speaker_id: michele-stieven
+  image: michele-stieven.jpg
+  title: "Angular Elements: da Angular ai Web Components"
+  extract: >
+    Angular è un framework completo che fornisce tutti gli strumenti per creare Single-Page Application complesse. In
+    questo talk vedremo come, grazie ai nuovi Angular Elements, è possibile convertire i nostri componenti Angular in
+    dei Custom Element, per poterli riutilizzare singolarmente in tutte le nostre applicazioni JavaScript.
+-
+  speaker_id:
+    - michel-murabito
+  image: michel-murabito.jpg
+  title: The Jedi Path to Angular Universal
+  extract: >
+    Tanto tempo fa, in una galassia lontana lontana le applicazioni Angular soffrivano di alcuni problemi. Limitazioni
+    sulle prestazioni, tempi di bootstrap, difficoltà ad ottenere una buona SEO, incompatibilità con le versioni del browser
+    utilizzato dagli utenti...
+    In questo talk esploreremo il lato chiaro della forza e vedremo come sfruttare Angular Universal per creare applicazioni
+    performanti, veloci, SEO friendly, coinvolgenti e compatibili utilizzando Render lato Server.
+-
+  speaker_id:
+    - jiayi-hu
+  image: jiayi-hu.jpg
+  title: The pursuit of Quality
+  extract: >
+    Efficienza ed efficacia sono due aspetti fondamentali di ogni progetto ed in questo talk vedremo come migliorare il
+    secondo tramite una migliore qualità del software. Typescript/Angular tips, il lato oscuro del linting, metriche
+    software, diversi tipi di testing ed altro per farvi odiare dai vostri colleghi in pochi semplici passi!
+-
+  speaker_id:
+    - emanuele-bartolesi
+  image: emanuele-bartolesi.png
+  title: "Creare PWA con Angular 5 e Visual Studio Code"
+  extract: >
+    Le Progressive Web Applications permettono di realizzare applicazioni molto veloci, che funzionano offline e su
+    ogni tipo di device.
+    In questa sessione vedremo come sfruttare le conoscenze di Angular 5 e, aggiungendo alcuni accorgimenti e codice,
+    trasformare una web app in una PWA con le features che la contraddistinguono: minor consumo di batteria, minor consumo
+    di dati, offline, pin dell'icona nelle app e tanto altro.
+    Nel dettaglio vedremo cosa mette a disposizione Angular 5 e Visual Studio Code per rendere le cose più facili e veloci.
