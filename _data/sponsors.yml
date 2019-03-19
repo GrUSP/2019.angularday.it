@@ -62,7 +62,10 @@ gold:
     - 2 free tickets
     - 3 tickets with 15% discount
   max: 8
-  list:
+  list: 
+    -
+       url: https://www.linkme.it/?utm_source=angularday
+       image: linkme.svg
 
 silver:
   price: € 750
