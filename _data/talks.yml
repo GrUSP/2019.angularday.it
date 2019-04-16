@@ -6,7 +6,6 @@
   extract: >
     There is no doubt that Progressive Web Apps are getting the really broad adoption and recognition by all the involved parties: browser vendors (finally, all the major ones), developers, users. Angular developers are lucky to have some really nice options to automate their PWA’s main functionality exposed by Service Worker API. The first option is 100% native to the Angular and created by the Angular team: Angular Service Worker. The second one is a framework-agnostic library called Workbox. 
     Both approaches are robust, convenient and unique! Let’s go through the main features of PWA implemented using NGSW vs Workbox and the resulting application lifecycle management. After the session, everyone will give their own answer on what’s easier to start with, which library is simpler to use, which resulting PWA is more convenient to maintain.
-    As an active speaker on Angular and PWA topics I often receive a question: what option to choose to automate building Angular PWA? There is no “right” answer, you have to choose the option which works best for you. In this session I generalized my experience with two great options: Angular Service Worker and Workbox. I believe this technical session will be very useful for many Angular developers.
 -
   speaker_id: elena-gancheva
   image: 
