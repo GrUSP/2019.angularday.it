@@ -2,51 +2,16 @@
 # img/conf-name/speaker/file.jpg
 list:
   -
-    id: emanuele-bartolesi
+    id: maxim-salnikov 
     description:
-    image: emanuele-bartolesi.png
-    first_name: Emanuele
-    last_name: Bartolesi
-    twitter: kasuken
+    image: maxim-salnikov.jpg
+    first_name: Maxim
+    last_name: Salnikov
+    twitter: webmaxru
   -
-    id: fabio-biondi
+    id: elena-gancheva
     description:
-    image: fabio-biondi.jpg
-    first_name: Fabio
-    last_name: Biondi
-    twitter: biondifabio
-  -
-    id: francesco-sciuti
-    description:
-    image: francesco-sciuti.jpg
-    first_name: Francesco
-    last_name: Sciuti
-    twitter: FrancescoSciuti
-  -
-    id: jiayi-hu
-    description:
-    image: jiayi-hu.jpg
-    first_name: Jiayi
-    last_name: Hu
-    twitter: jiayi_ghu
-  -
-    id: michel-murabito
-    description:
-    image: michel-murabito.jpg
-    first_name: Michel
-    last_name: Murabito
-    twitter: michelmurabito
-  -
-    id: michele-stieven
-    description:
-    image: michele-stieven.jpg
-    first_name: Michele
-    last_name: Stieven
-    twitter: MicheleStieven
-  -
-    id: paolo-galfione
-    description:
-    image: paolo-galfione.jpg
-    first_name: Paolo
-    last_name: Galfione
-    twitter: paologalfione
+    image: elena-gancheva.jpeg
+    first_name: Elena
+    last_name: Gancheva 
+    twitter: eagancheva
