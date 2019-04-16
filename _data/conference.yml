@@ -1,5 +1,5 @@
-name: Angular Day
-og_image: https://2019.angularday.it/img/themes/angularday/intro.png
+name: angularday
+og_image: https://2019.angularday.it/img/themes/angularday/intro.jpg
 slug: angularday
 url: https://2019.angularday.it
 where_when: "Verona <br>June 13th: course <br>June 14th: conference"
@@ -8,7 +8,7 @@ since: 2017
 call_for_paper_url: https://goo.gl/forms/JbHdo1AFYChfzSol2
 call_for_paper: false
 call_for_sponsor: true
-talks_available: false
+talks_available: true
 schedule_available: false
 workshop_available: false
 
