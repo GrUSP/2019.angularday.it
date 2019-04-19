@@ -4,9 +4,9 @@
   "description": "Conference site",
   "main": "index.js",
   "devDependencies": {
-    "dustman": "^1.11.55",
+    "dustman": "github:grusp/dustman",
     "frontsize": "git+https://github.com/ideatosrl/frontsize.git#372f2a6",
-    "gulp": "github:gulpjs/gulp#4.0"
+    "gulp": "^4.0.0"
   },
   "scripts": {
     "build": "./node_modules/.bin/gulp -S --config dustman-angularday.yml",
