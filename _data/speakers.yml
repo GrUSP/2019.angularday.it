@@ -2,13 +2,6 @@
 # img/conf-name/speaker/file.jpg
 list:
   -
-    id: maxim-salnikov 
-    description:
-    image: maxim-salnikov.jpg
-    first_name: Maxim
-    last_name: Salnikov
-    twitter: webmaxru
-  -
     id: elena-gancheva
     description:
     image: elena-gancheva.jpeg
