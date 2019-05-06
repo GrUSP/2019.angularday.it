@@ -5,3 +5,22 @@
   title: "Elegance of Movement with Reactive Angular Animations"
   extract: >
     Reactive Animations which are implementing best UX concepts with Angular AnimationBuilder Module, SVG and Angular Material.
+-
+  speaker_id: tomas-trajan
+  image: 
+  keynote: false
+  title: "Total Guide To Custom Angular Schematics"
+  extract: >
+    Angular Schematics are great! 
+    They enable us to automate mundane repetitive work and setup so we can focus on what really matters, delivering useful features to our users! 
+    In this talk we're going to explore what Angular Schematics are and how we can use provided schematics to the fullest. 
+    After that we're going to implement our own custom schematics and integrate them in the Angular CLI workspace project!
+-
+  speaker_id: onder-ceylan
+  image: 
+  keynote: false
+  title: "Level up your NgRx game"
+  extract: >
+    State management can get really complex for scaled Angular applications. And, NgRx can be an answer for the complexity of this problem. 
+    This talk will cover some of the best practices of building an NgRx Angular app. We'll go through building a good action hygiene, efficiently using schematics, improving your apps performance with one-way data binding and memoized selectors, reducing the boilerplate with entities/schematics and introducing ngrx-data.
+    After this session, you'll have more control on the NgRx platform with the grasp of entities, memoized selectors, effects and schematics.
