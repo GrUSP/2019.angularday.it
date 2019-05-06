@@ -3,21 +3,21 @@
 list:
   -
     id: elena-gancheva
-    description:
+    description: Software Engineer, working on Kendo UI for Angular at Progress. Lovesick about Front End, Dog person and a Ballerina at heart.
     image: elena-gancheva.jpeg
     first_name: Elena
     last_name: Gancheva 
     twitter: eagancheva
   -
     id: tomas-trajan
-    description:
+    description: Google Developer Expert for Angular, he loves sharing know how in form of writing and speaking mostly about Angular, RxJS and many other exciting frontend technologies!
     image: tomas-trajan.jpg
     first_name: Tomas
     last_name: Trajan 
     twitter: tomastrajan
   -
     id:  onder-ceylan
-    description:
+    description: GDE in Web Technologies, he works as JavaScript Tech Lead for KLM via LINKIT. He’s passionate about PWA, Angular and Ionic.
     image: onder-ceylan.jpg
     first_name: Önder
     last_name: Ceylan 
