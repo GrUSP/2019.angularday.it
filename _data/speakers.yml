@@ -8,3 +8,17 @@ list:
     first_name: Elena
     last_name: Gancheva 
     twitter: eagancheva
+  -
+    id: tomas-trajan
+    description:
+    image: tomas-trajan.jpg
+    first_name: Tomas
+    last_name: Trajan 
+    twitter: tomastrajan
+  -
+    id:  onder-ceylan
+    description:
+    image: onder-ceylan.jpg
+    first_name: Önder
+    last_name: Ceylan 
+    twitter: onderceylan
