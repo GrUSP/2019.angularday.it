@@ -22,3 +22,10 @@ list:
     first_name: Önder
     last_name: Ceylan 
     twitter: onderceylan
+  -
+    id: zack-chapple
+    description:
+    image: zack-chapple.jpg
+    first_name: Zack
+    last_name: Chapple 
+    twitter: ZChapple  
