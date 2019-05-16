@@ -24,3 +24,11 @@
     State management can get really complex for scaled Angular applications. And, NgRx can be an answer for the complexity of this problem. 
     This talk will cover some of the best practices of building an NgRx Angular app. We'll go through building a good action hygiene, efficiently using schematics, improving your apps performance with one-way data binding and memoized selectors, reducing the boilerplate with entities/schematics and introducing ngrx-data.
     After this session, you'll have more control on the NgRx platform with the grasp of entities, memoized selectors, effects and schematics.
+-
+  speaker_id: zack-chapple
+  image: 
+  keynote: false
+  title: "Adventures in Node and Nest"
+  extract: >
+    Our story begins after you’ve created your Angular frontend: up until this point you’ve been using mock data and now you’re wondering “How in the world do I create the backend to power this application?” and “How can I leverage my existing Angular and TypeScript skills to do it”. 
+    In this talk we will go through setting up your perfect companion Backend. A Node server with Nest then extending the functionality to be ready for production.
