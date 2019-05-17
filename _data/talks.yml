@@ -32,3 +32,20 @@
   extract: >
     Our story begins after you’ve created your Angular frontend: up until this point you’ve been using mock data and now you’re wondering “How in the world do I create the backend to power this application?” and “How can I leverage my existing Angular and TypeScript skills to do it”. 
     In this talk we will go through setting up your perfect companion Backend. A Node server with Nest then extending the functionality to be ready for production.
+-
+  speaker_id: keilla-menezes
+  image: 
+  keynote: false
+  title: "To be reactive, that's the answer!"
+  extract: >
+    Angular applications are a reactive system. Although the framework architecture provides a basis for building reactive applications, this does not necessarily happen. 
+    The RXJS library works great for frontends and applications with large volume of events. 
+    What is reactive programming? How RXJS can help you to build wonderful applications is the goal of this presentation.
+-
+  speaker_id: sam-bellen
+  image: 
+  keynote: false
+  title: "Knock knock, who's there? Authenticating your single page apps using JSON Web Tokens"
+  extract: >
+    When it comes to writing code, there’s nothing we take more serious than authentication and security. Modern single page applications bring along new challenges. By using solutions like the OpenID Connect protocol and JSON Web Tokens we can improve the user experience when authenticating with your apps, providing a seamless authentication process.
+    In this talk I will try to explain in depth, the way JSON Web Tokens work and can be used to secure your single page apps. I will explain the difference between using opaque tokens and JWTs. The talks will also give an overview of a modern authentication flow and a step by step breakdown of how it works exactly. 
