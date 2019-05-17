@@ -28,4 +28,18 @@ list:
     image: zack-chapple.jpg
     first_name: Zack
     last_name: Chapple 
-    twitter: ZChapple  
+    twitter: ZChapple
+  -
+    id: keilla-menezes
+    description: Senior Software Development Consultant at ThoughtWorks, GDE in Angular and CTO at AfrotechBR. She believe sharing knowledge is a way to democratize technology for all.
+    image: keilla-menezes.jpg
+    first_name: Keilla
+    last_name: Menezes 
+    twitter: keillamenezes_ 
+  -
+    id: sam-bellen
+    description: Google Developer Expert who works as a Developer Evangelist at Auth0. At Auth0 we're trying to make authentication and identification as easy as possible, while still keeping it secure. Passionate about front-end development and abusing browsers.
+    image: sam-bellen.jpg
+    first_name: Sam
+    last_name: Bellen
+    twitter: sambego 
