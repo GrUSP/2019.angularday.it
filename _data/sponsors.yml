@@ -84,6 +84,9 @@ silver:
     -
        url: https://www.flowing.it/?utm_source=angularday
        image: flowing.svg
+    -
+       url: https://auth0.com?utm_source=angularday
+       image: auth0.svg       
        
 bronze:
   price: € 500
