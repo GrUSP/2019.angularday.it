@@ -42,4 +42,11 @@ list:
     image: sam-bellen.jpg
     first_name: Sam
     last_name: Bellen
-    twitter: sambego 
+    twitter: sambego
+  -
+    id: francesco-leardini
+    description: Senior consultant and Angular trainer at Trivadis. He fell in love with javascript and Angular and since then likes to combine them with other bleeding edge technologies as well as giving talks to conferences and tech meetups.
+    image: francesco-leardini.jpg
+    first_name: Francesco
+    last_name: Leardini
+    twitter: paco_ITA
