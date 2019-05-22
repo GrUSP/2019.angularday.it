@@ -1,0 +1,8 @@
+# place images in:
+# img/conf-name/community/file.jpg
+
+list:
+  -
+    name: AngularFinland
+    image: angularfi.svg
+    site: http://angular.fi/
