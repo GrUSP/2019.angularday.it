@@ -120,6 +120,22 @@
         <div class="sponsors__partner" id="media-partners" data-name="angularday" data-tags="js frontend"></div>
       </div>
 
+      <div class="sponsors__category">
+        <div class="sponsors__title-right">
+          COMMUNITY
+        </div>
+        <div class="sponsors__partner">
+          {% for community in site.data.community.list %}
+          <div class="sponsors__partner-column">
+            <a href="{{ community.site }}" title="{{ community.name }}" class="sponsors__link">
+              <div style="background-image: url({{ site.baseurl }}/img/angularday/community/{{ community.image }})" class="sponsors__image"></div>
+            </a>
+          </div>
+          {% endfor %}
+
+        </div>
+      </div>
+
     </div>
   </div>
 
