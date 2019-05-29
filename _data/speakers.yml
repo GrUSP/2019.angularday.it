@@ -2,19 +2,12 @@
 # img/conf-name/speaker/file.jpg
 list:
   -
-    id: elena-gancheva
-    description: Software Engineer, working on Kendo UI for Angular at Progress. Lovesick about Front End, Dog person and a Ballerina at heart.
-    image: elena-gancheva.jpeg
-    first_name: Elena
-    last_name: Gancheva 
-    twitter: eagancheva
-  -
-    id: tomas-trajan
-    description: Google Developer Expert for Angular, he loves sharing know how in form of writing and speaking mostly about Angular, RxJS and many other exciting frontend technologies!
-    image: tomas-trajan.jpg
-    first_name: Tomas
-    last_name: Trajan 
-    twitter: tomastrajan
+    id: sam-bellen
+    description: Google Developer Expert who works as a Developer Evangelist at Auth0. At Auth0 we're trying to make authentication and identification as easy as possible, while still keeping it secure. Passionate about front-end development and abusing browsers.
+    image: sam-bellen.jpg
+    first_name: Sam
+    last_name: Bellen
+    twitter: sambego
   -
     id:  onder-ceylan
     description: GDE in Web Technologies, he works as JavaScript Tech Lead for KLM via LINKIT. He’s passionate about PWA, Angular and Ionic.
@@ -30,19 +23,19 @@ list:
     last_name: Chapple 
     twitter: ZChapple
   -
-    id: keilla-menezes
-    description: Senior Software Development Consultant at ThoughtWorks, GDE in Angular and CTO at AfrotechBR. She believe sharing knowledge is a way to democratize technology for all.
-    image: keilla-menezes.jpg
-    first_name: Keilla
-    last_name: Menezes 
-    twitter: keillamenezes_ 
+    id: stephen-fluin
+    description: Developer Relations Lead on the Angular Team at Google. 
+    image: stephen-fluin.jpg
+    first_name: Stephen
+    last_name: Fluin
+    twitter: stephenfluin
   -
-    id: sam-bellen
-    description: Google Developer Expert who works as a Developer Evangelist at Auth0. At Auth0 we're trying to make authentication and identification as easy as possible, while still keeping it secure. Passionate about front-end development and abusing browsers.
-    image: sam-bellen.jpg
-    first_name: Sam
-    last_name: Bellen
-    twitter: sambego
+    id: elena-gancheva
+    description: Software Engineer, working on Kendo UI for Angular at Progress. Lovesick about Front End, Dog person and a Ballerina at heart.
+    image: elena-gancheva.jpeg
+    first_name: Elena
+    last_name: Gancheva 
+    twitter: eagancheva
   -
     id: francesco-leardini
     description: Senior consultant and Angular trainer at Trivadis. He fell in love with javascript and Angular and since then likes to combine them with other bleeding edge technologies as well as giving talks to conferences and tech meetups.
@@ -50,3 +43,17 @@ list:
     first_name: Francesco
     last_name: Leardini
     twitter: paco_ITA
+  -
+    id: keilla-menezes
+    description: Senior Software Development Consultant at ThoughtWorks, GDE in Angular and CTO at AfrotechBR. She believe sharing knowledge is a way to democratize technology for all.
+    image: keilla-menezes.jpg
+    first_name: Keilla
+    last_name: Menezes 
+    twitter: keillamenezes_ 
+  -
+    id: tomas-trajan
+    description: Google Developer Expert for Angular, he loves sharing know how in form of writing and speaking mostly about Angular, RxJS and many other exciting frontend technologies!
+    image: tomas-trajan.jpg
+    first_name: Tomas
+    last_name: Trajan 
+    twitter: tomastrajan
