@@ -1,20 +1,11 @@
 -
-  speaker_id: elena-gancheva
+  speaker_id: sam-bellen
   image: 
   keynote: false
-  title: "Elegance of Movement with Reactive Angular Animations"
+  title: "Knock knock, who's there? Authenticating your single page apps using JSON Web Tokens"
   extract: >
-    Reactive Animations which are implementing best UX concepts with Angular AnimationBuilder Module, SVG and Angular Material.
--
-  speaker_id: tomas-trajan
-  image: 
-  keynote: false
-  title: "Total Guide To Custom Angular Schematics"
-  extract: >
-    Angular Schematics are great! 
-    They enable us to automate mundane repetitive work and setup so we can focus on what really matters, delivering useful features to our users! 
-    In this talk we're going to explore what Angular Schematics are and how we can use provided schematics to the fullest. 
-    After that we're going to implement our own custom schematics and integrate them in the Angular CLI workspace project!
+    When it comes to writing code, there’s nothing we take more serious than authentication and security. Modern single page applications bring along new challenges. By using solutions like the OpenID Connect protocol and JSON Web Tokens we can improve the user experience when authenticating with your apps, providing a seamless authentication process.
+    In this talk I will try to explain in depth, the way JSON Web Tokens work and can be used to secure your single page apps. I will explain the difference between using opaque tokens and JWTs. The talks will also give an overview of a modern authentication flow and a step by step breakdown of how it works exactly. 
 -
   speaker_id: onder-ceylan
   image: 
@@ -33,6 +24,29 @@
     Our story begins after you’ve created your Angular frontend: up until this point you’ve been using mock data and now you’re wondering “How in the world do I create the backend to power this application?” and “How can I leverage my existing Angular and TypeScript skills to do it”. 
     In this talk we will go through setting up your perfect companion Backend. A Node server with Nest then extending the functionality to be ready for production.
 -
+  speaker_id: stephen-fluin
+  image: 
+  keynote: true
+  title: "What's new in 8.0 (live streaming)"
+  extract: >
+    Live streaming talk. 
+-
+  speaker_id: elena-gancheva
+  image: 
+  keynote: false
+  title: "Elegance of Movement with Reactive Angular Animations"
+  extract: >
+    Reactive Animations which are implementing best UX concepts with Angular AnimationBuilder Module, SVG and Angular Material.
+-
+  speaker_id: francesco-leardini
+  image: 
+  keynote: false
+  title: "Offline web applications don't exist anymore!"
+  extract: >
+    Progressive Web Apps (PWAs) enhance web applications and make them ready for the future. 
+    One of the most important features of PWAs is their offline capability, as it avoids connectivity issues and drastically improves the user experience. 
+    In this session we dive into the world of PWAs, looking at different caching strategies and modern tools to easily build progressive web apps. We will see a real world demo using the Angular framework and Cloud Firestore Database. Firestore is a cloud database solution that enables the offline capability that we are looking for.    
+-
   speaker_id: keilla-menezes
   image: 
   keynote: false
@@ -42,19 +56,12 @@
     The RXJS library works great for frontends and applications with large volume of events. 
     What is reactive programming? How RXJS can help you to build wonderful applications is the goal of this presentation.
 -
-  speaker_id: sam-bellen
+  speaker_id: tomas-trajan
   image: 
   keynote: false
-  title: "Knock knock, who's there? Authenticating your single page apps using JSON Web Tokens"
+  title: "Total Guide To Custom Angular Schematics"
   extract: >
-    When it comes to writing code, there’s nothing we take more serious than authentication and security. Modern single page applications bring along new challenges. By using solutions like the OpenID Connect protocol and JSON Web Tokens we can improve the user experience when authenticating with your apps, providing a seamless authentication process.
-    In this talk I will try to explain in depth, the way JSON Web Tokens work and can be used to secure your single page apps. I will explain the difference between using opaque tokens and JWTs. The talks will also give an overview of a modern authentication flow and a step by step breakdown of how it works exactly. 
--
-  speaker_id: francesco-leardini
-  image: 
-  keynote: false
-  title: "Offline web applications don't exist anymore!"
-  extract: >
-    Progressive Web Apps (PWAs) enhance web applications and make them ready for the future. 
-    One of the most important features of PWAs is their offline capability, as it avoids connectivity issues and drastically improves the user experience. 
-    In this session we dive into the world of PWAs, looking at different caching strategies and modern tools to easily build progressive web apps. We will see a real world demo using the Angular framework and Cloud Firestore Database. Firestore is a cloud database solution that enables the offline capability that we are looking for.
+    Angular Schematics are great! 
+    They enable us to automate mundane repetitive work and setup so we can focus on what really matters, delivering useful features to our users! 
+    In this talk we're going to explore what Angular Schematics are and how we can use provided schematics to the fullest. 
+    After that we're going to implement our own custom schematics and integrate them in the Angular CLI workspace project!
